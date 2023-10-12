@@ -1,0 +1,104 @@
+body {
+  font-size: 80%;
+  font-family: "Courier New", Courier, monospace;
+  letter-spacing: 0.15em;
+  background-color: #efefef;
+}
+
+.container {
+  border: 4px double black;
+  height: 630px;
+}
+.div1 {
+  margin: auto;
+  padding-left: 550px;
+}
+.table {
+  margin: auto;
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+  width: 80%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.pianoimg {
+  width: 80%;
+  margin: auto;
+  margin-left: 140px;
+  margin-top: 20px;
+  width: 80%;
+  height: 200px;
+}
+.p {
+  font-weight: bold;
+  font-size: 20px;
+  margin: auto;
+  margin-left: 140px;
+  margin-top: 20px;
+  width: 80%;
+}
+.analog {
+  font-size: 60px;
+  font-weight: bolder;
+  margin-top: 0px;
+  margin-bottom: 0%;
+}
+.sp {
+  margin-top: -2%;
+  font-weight: 150;
+  font-size: 35px;
+}
+.the {
+  font-size: 30px;
+  margin-bottom: -1%;
+  font-weight: 100;
+  padding-left: 80px;
+}
+.name {
+  padding-left: 1000px;
+  margin-top: 50px;
+}
+.pimg {
+  margin-top: -500px;
+  padding-left: 35%;
+  margin-bottom: 50px;
+}
+a:hover {
+  color: red;
+  text-shadow: 2px 2px grey;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.box1 {
+  margin-top: 20px;
+  width: 300px;
+  padding: 10px 10px 10px 10px;
+  margin-left: 70px;
+  border: 2px solid black;
+  margin-right: 20px;
+}
+.p2 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.main {
+  display: flex;
+}
+.p3{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+}
+.contact{
+  text-align: center;
+  background-color: black;
+  color: white;
+  text-shadow: 3px 3px 5px magenta;
+  font-size: 40px;
+  margin-top: 70px;
+}
+.Details{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
