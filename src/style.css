@@ -68,6 +68,7 @@ body {
 a:hover {
   color: red;
   text-shadow: 2px 2px grey;
+  text-decoration: underline;
 }
 a {
   color: black;
